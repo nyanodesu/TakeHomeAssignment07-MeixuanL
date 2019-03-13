@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoTest</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="prev_button">PREV</string>
+    <string name="next_button">NEXT</string>
+    <string name="question_text">Time to test your knowledge about geography!</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_a">Lake Victoria is the largest lake in Africa.</string>
+    <string name="question_b">Wyoming is the least populated U.S. state.</string>
+    <string name="question_c">Portuguese is not the official language of Brazil.</string>
+    <string name="question_d">The Maldives are found in the Indian Ocean.</string>
+    <string name="question_e">Sydney is the capital city of Australia.</string>
+    <string name="question_f">The ruins of the ancient city of Pompeii are near to Mount Vesuvius.</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong!</string>
+</resources>
